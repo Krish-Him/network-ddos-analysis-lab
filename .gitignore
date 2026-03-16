@@ -68,12 +68,5 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# Packet capture files (large binary files – store separately if needed)
-*.pcap
-*.pcapng
-
-# Report PDFs (generated artifacts)
-report/*.pdf
-
 # Logs
 *.log
